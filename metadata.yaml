@@ -1,0 +1,36 @@
+_repo: The-Belted-Seas_6862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colton, Arthur
+    alias: Colton, Arthur Willis
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '2228'
+    url: http://www.gutenberg.org/2009/agents/2228
+description: The clock struck one. It was the tall standing clock in the front room
+  of Pemberton's Hotel, and Pemberton's stands by the highway that runs by the coast
+  of Long Island Sound. It is near the western edge of the village of Greenough, the
+  gilt cupola of whose eminent steeple is noted by far-passing ships. On the beach
+  are flimsy summer cottages, and hard beside them is the old harbour, guarded by
+  its stone pier. Whalers and merchantmen used to tie up there a hundred years ago,
+  where now only fishing boats come. The village lies back from the shore, and has
+  three divisions, Newport Street, the Green, and the West End; of which the first
+  is a broad street with double roads, and there are the post office and the stores;
+  the second boasts of its gilt-cupolaed church; the third has the two distinctions
+  of the cemetery and Pemberton's.
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- GITenberg
+title: The Belted Seas
+url: http://www.gutenberg.org/ebooks/6862
