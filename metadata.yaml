@@ -1,5 +1,8 @@
 _repo: The-Belted-Seas_6862
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Colton, Arthur
@@ -19,6 +22,8 @@ description: The clock struck one. It was the tall standing clock in the front r
   is a broad street with double roads, and there are the post office and the stores;
   the second boasts of its gilt-cupolaed church; the third has the two distinctions
   of the cemetery and Pemberton's.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6862#The-Belted-Seas
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
